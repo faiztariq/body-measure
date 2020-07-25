@@ -1,4 +1,4 @@
-# body-measure
+# Body Measure
 A simple demo to estimate clothing size for a person using BodyPix
 
 ## Contents
