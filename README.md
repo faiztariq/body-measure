@@ -10,10 +10,6 @@ Be at a distance almost 1 feet (preferably) for calibration.
 
 cd into the demos folder:
 
-```sh
-cd body-pix/demos
-```
-
 Install dependencies:
 
 ```sh
